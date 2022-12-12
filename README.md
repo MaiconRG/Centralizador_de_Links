@@ -10,3 +10,6 @@ POSTAGEM
 [] Enviar para o git
 [] Ospedar na vercel "Assistir Felipe dechamps"
 [] Espalhar o link
+
+
+Acesso: https://maiconrg.github.io/Centralizador_de_Links/
